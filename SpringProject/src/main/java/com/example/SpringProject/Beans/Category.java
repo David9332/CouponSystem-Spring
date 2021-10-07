@@ -6,8 +6,8 @@ import lombok.Getter;
 @AllArgsConstructor
 @Getter
 public enum Category {
-    ELECTRICITY,
-    FOOD,
-    RESTAURANT,
-    VACATION;
+    sdsds,
+    sdsds,
+    sdssd,
+    sdsdds;
 }
