@@ -6,8 +6,8 @@ import lombok.Getter;
 @AllArgsConstructor
 @Getter
 public enum Category {
-    sdsds,
-    sdsds,
-    sdssd,
-    sdsdds;
+    vbvbvbb,
+    vbbvbb,
+    bvvbvbvb,
+    vbvbb;
 }
